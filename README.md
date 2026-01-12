@@ -55,7 +55,7 @@ Người dùng cần lựa chọn các khối màu khác biệt so với các kh
 ## 8. Minh chứng kiểm thử
 Ảnh chụp màn hình kết quả kiểm thử, có dấu hiệu cá nhân (đã đăng nhập trình duyệt Chrome):
 
-![Test Result](images/cantunsee-result.png)
+![Test Result](tuan1/cantsee.png)
 
 
 ## 9. Đánh giá & nhận xét
